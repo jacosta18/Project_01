@@ -26,3 +26,7 @@ print(story['middle'])
 story['End'] = 'To be continued ...'
 print(story['End'])
 print(story['Sub_End'])
+
+choose_hero = input('Would you like to change your hero?')
+if (choose_hero.upper() == 'Y'):
+    input('What would you like your Hero to be called?')
