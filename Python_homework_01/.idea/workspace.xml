@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc7ef9e5-3a8f-4f42-aed1-1a4feb5a45bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/01_python_homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_python_homework.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../filipe-code/python_excercises" beforeDir="false" afterPath="$PROJECT_DIR$/../filipe-code/python_excercises" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../python_basics_devops_36_37" beforeDir="false" afterPath="$PROJECT_DIR$/../python_basics_devops_36_37" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_basics_devops_36_37/06_data_types_lists_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python_basics_devops_36_37/06_data_types_lists_dict.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +134,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18428005" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
