@@ -19,6 +19,8 @@ print(python.specie)
 print(python.region_found)
 print(python.number_of_fangs)
 print(python.age)
+python.age = -35
+print(python.age)
 print(python.can_constrict(True))
 
 
