@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/../Python_homework_01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_homework_01/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../filipe-code/python_excercises" beforeDir="false" afterPath="$PROJECT_DIR$/../filipe-code/python_excercises" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Four_Pillars/Encapsulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Four_Pillars/Encapsulation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Four_Pillars/Using abstraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Four_Pillars/Using abstraction.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../python_basics_devops_36_37" beforeDir="false" afterPath="$PROJECT_DIR$/../python_basics_devops_36_37" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Four_Pillars/Encapsulation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+            <state relative-caret-position="66">
+              <caret line="57" column="48" selection-start-line="57" selection-start-column="48" selection-end-line="57" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -354,8 +353,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Four_Pillars/Encapsulation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+        <state relative-caret-position="66">
+          <caret line="57" column="48" selection-start-line="57" selection-start-column="48" selection-end-line="57" selection-end-column="48" />
         </state>
       </provider>
     </entry>
