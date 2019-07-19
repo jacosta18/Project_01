@@ -15,16 +15,17 @@ class Aircraft():
     def can_crash(self):
         return 'aaaaaaahhh'
 
-class Aairplanes(Aircraft):
-
-    def __init__(self, engine, model, colour,plane_number,company):
-        super().__init__(engine, model, colour)
-        self.plane_number= plane_number
-        self.company = company
-
 class Helicopters (Aircraft):
     def __init__(self,engine, model, colour,rudder):
         super().__init__(engine,model,colour)
         self.rudder = rudder
+
+class Airplanes(Aircraft):
+
+    def __init__(self, engine, model, colour, plane_number, company):
+        super().__init__(engine, model, colour)
+        self.plane_number = plane_number
+        self.company = company
+
 
 
