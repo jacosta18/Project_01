@@ -5,4 +5,3 @@ class People():
         self.name = name
         self.passport = passport
 
-    
