@@ -14,6 +14,17 @@ class People():
     def be_scared(self,bool_value):
         return bool_value
 
+    def show(self):
+        self.__passport = "AC039459ZB"
+        print(f"My name is {self.name} and my passport number is {self.__passport}")
+
+
+person_01= People("Adam Perumal","AC039459ZB")
+person_01.show()
+person_01.name = People("Alan Perumal")
+person_01.show()
+
+
 class Staff (People):   # Subclass of People
 
     def __init__(self,name, passport, emp_id, occupation):
