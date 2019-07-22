@@ -1,5 +1,4 @@
 
-
 class Aircraft():
     def __init__(self, engine, model, colour):
         self.engine = engine
