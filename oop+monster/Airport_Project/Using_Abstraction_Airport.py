@@ -17,6 +17,7 @@ class Fighter_plane(Airplanes):
         return "They see me rolling"
 
 fighter_plane = Fighter_plane("Turbo Jet","Typhoon","Grey / White","FZ-40","RAF","50 calibre","3 tonnes",0)
+
 print(f"This airport has a fighter plane with a {fighter_plane.engine} engine made by {fighter_plane.model}. It comes in {fighter_plane.colour} and a plane number {fighter_plane.plane_number} run by a company called {fighter_plane.company}. It equips a {fighter_plane.guns} machine gun and {fighter_plane.missiles} worth of missiles. It can also break the sound barrier if goes {fighter_plane.break_sound_barrier()} mph faster than its average speed of 503mph")
 
 

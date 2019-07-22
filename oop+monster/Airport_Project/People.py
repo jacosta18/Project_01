@@ -19,10 +19,10 @@ class People():
         print(f"My name is {self.name} and my passport number is {self.__passport}")
 
 
-person_01= People("Adam Perumal","AC039459ZB")
-person_01.show()
-person_01.name = People("Alan Perumal")
-person_01.show()
+passenger_01= People("Adam Perumal","AC039459ZB")
+# passenger_01.show()
+# passenger_01.name = People("Alan Perumal")
+# passenger_01.show()
 
 
 class Staff (People):   # Subclass of People
@@ -40,7 +40,8 @@ person_1 = People("Adam Perumal", "AC039459ZB")
 
 staff_1 = Staff("Omid Flynn", "B32094564D",100687,"flight attendant")
 
-print(staff_1.be_scared(False))
-print(person_1.be_scared(True))
-print(person_1.be_sick())
-print(person_1.can_complain())
+# print(staff_1.be_scared(False))
+# print(person_1.be_scared(True))
+# print(person_1.be_sick())
+# print(person_1.can_complain())
+# print(staff_1.safety_guide())
