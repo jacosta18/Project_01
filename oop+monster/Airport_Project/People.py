@@ -18,6 +18,8 @@ class People():
         self.__passport = "AC039459ZB"
         print(f"My name is {self.name} and my passport number is {self.__passport}")
 
+    # def get_details(self):
+    #     return self.name + "," + self.__passport
 
 # passenger_01= People("Adam Perumal","AC039459ZB") # ----> Encapsulation for passengers
 # passenger_01.show()
@@ -41,8 +43,9 @@ person_2 = People("Adam Perumal", "AC039459ZB")
 
 staff_1 = Staff("Omid Flynn", "B32094564D",100687,"flight attendant")
 
-print(staff_1.be_scared(False))
-print(staff_1.safety_guide())
-print(person_1.be_scared(True))
-print(person_1.be_sick())
-print(person_1.can_complain())
+#
+# print(staff_1.be_scared(False))
+# print(staff_1.safety_guide())
+# print(person_1.be_scared(True))
+# print(person_1.be_sick())
+# print(person_1.can_complain())
