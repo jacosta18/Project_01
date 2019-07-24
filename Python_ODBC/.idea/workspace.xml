@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5738519c-c9ea-463d-9d63-66a0c313623f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dummy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Attempt_2_python_ODBC_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Attempt_2_python_ODBC_02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_ODBC_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_ODBC_01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python_homework_01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_homework_01/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Swbat/Airport/Abstraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Swbat/Airport/Abstraction.py" afterDir="false" />
@@ -24,21 +27,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python_ODBC_01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2231">
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
+            <state relative-caret-position="481">
+              <caret line="143" selection-start-line="143" selection-end-line="143" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Attempt_2_python_ODBC_02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Attempt_2_python_ODBC_02.py">
+        <entry file="file://$PROJECT_DIR$/dummy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="-253">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -60,24 +72,15 @@
       <list>
         <option value="$PROJECT_DIR$/python_ODBC_01.py" />
         <option value="$PROJECT_DIR$/Attempt_2_python_ODBC_02.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/Python_ODBC.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/dummy.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="498" />
+    <option name="x" value="497" />
     <option name="y" value="-30" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -101,6 +104,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Swbat" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -115,7 +120,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Attempt_2_python_ODBC_02">
+  <component name="RunManager" selected="Python.dummy">
     <configuration name="Attempt_2_python_ODBC_02" type="PythonConfigurationType" factoryName="Python">
       <module name="Python_ODBC" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,6 +134,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Attempt_2_python_ODBC_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dummy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_ODBC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dummy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,6 +186,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dummy" />
         <item itemvalue="Python.python_ODBC_01" />
       </list>
     </recent_temporary>
@@ -181,13 +208,9 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15059446" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32956153" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
@@ -195,6 +218,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -203,15 +230,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/python_ODBC_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2231">
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="481">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Attempt_2_python_ODBC_02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="217">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dummy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>

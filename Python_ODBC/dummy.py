@@ -26,7 +26,7 @@ class Northwind():
             my_db.docker_Northwind.commit()
             my_db.docker_Northwind.close()
             print("\n"+table_name+"has been successfully created!*\n")
-            return 
+            return
 
     def read(self):
         my_db = Northwind
